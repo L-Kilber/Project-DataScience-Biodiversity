@@ -1,9 +1,12 @@
 # Project-DataScience-Biodiversity
 Esse projeto tenta responder algumas questões a respeito da biodiversidade em um database utilizando data science.
 
-# Introdução
-## Este projeto investigará se existe a correlação entre o potencial econômico de um país e a expectativa de vida de seus cidadãos.
-## Os objetivos são preparar os dados, seguidos da análise com gráficos e buscar explicar os achados do estudo.
+## As ferramentas e bibliotecas utilizadas nesse projeto:
+ - Python
+ - Pandas
+ - Seaborn
+ - Matplotlib
+ - Numpy
 
 ## Aqui estão algumas perguntas que este projeto buscará responder:
 
